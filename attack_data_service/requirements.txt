@@ -39,7 +39,7 @@ more-itertools==10.1.0
 mysql-connector-python==8.0.29
 nodeenv==1.6.0
 ntlm-auth==1.5.0
-packaging==21.2
+packaging==24.2
 packer.py==0.3.0
 paramiko==2.10.1
 path==15.0.0
